@@ -2,12 +2,11 @@
 Learning programming language called rust
 
 To Compile
-'''bash
+```bash
 rustc filename.rs -A warnings
-// ./filename
-'''
+```
 
 To Output
-'''bash
+```bash
 ./filename
-'''
+```
